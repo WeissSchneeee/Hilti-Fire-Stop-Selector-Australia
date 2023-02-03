@@ -1,2 +1,5 @@
-# Hilti-Fire-Stop-Selector-Australia
+# Hilti-Fire-Stop-Selector
+
+React.js + Node.js + Express + PostgreSQL
+
 Optik Consultancy
